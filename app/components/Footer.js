@@ -7,9 +7,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           {/* Logo or Branding */}
           <div className="mb-6 md:mb-0">
-            <h2 className="text-2xl font-bold">App Name</h2>
+            <h2 className="text-2xl font-bold">Ifzy</h2>
             <p className="mt-2 text-gray-600 dark:text-gray-400">
-              Your go-to platform for everything.
+              Dev Ifzy
             </p>
           </div>
 
