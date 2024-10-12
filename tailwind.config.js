@@ -15,6 +15,8 @@ module.exports = {
       backgroundColor: {
         "dark-mode": "#000000", // Custom dark mode background
         "light-mode": "#ffffff", // Custom light mode background
+        "dark-navbar": '#1a1a1a',
+        "light-navbar": '#e4e4e4',
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],

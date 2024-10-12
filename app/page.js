@@ -3,7 +3,7 @@ import sampleImage from "@/public/images/samantha.png"; // Make sure to add an i
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
+    <div className="flex flex-col items-center justify-center min-h-screen mt-6">
       <h1 className="text-4xl font-bold text-center text-blue-600 mb-4">
         Welcome to Dev Ifzy!
       </h1>
