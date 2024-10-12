@@ -47,7 +47,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="mt-8 text-center border-t pt-4 border-gray-300 dark:border-gray-600">
           <p className="text-gray-600 dark:text-gray-400">
-            © 2024 App Name. All rights reserved.
+            © 2024 Ifzy. All rights reserved.
           </p>
         </div>
       </div>
