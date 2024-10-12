@@ -18,10 +18,10 @@ html {
 
 @layer base {
   body {
-    @apply bg-light-mode text-black /* font-ubuntu */; /* Default light mode styles */
+    @apply bg-light-mode text-black font-poppins; /* Default light mode styles */
   }
 
   .dark body {
-    @apply bg-dark-mode text-white; /* Dark mode styles */
+    @apply bg-dark-mode text-white font-poppins; /* Dark mode styles */
   }
 }

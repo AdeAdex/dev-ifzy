@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -14,6 +15,10 @@ module.exports = {
       backgroundColor: {
         "dark-mode": "#000000", // Custom dark mode background
         "light-mode": "#ffffff", // Custom light mode background
+      },
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+        ubuntu: ['Ubuntu', 'sans-serif'],
       },
     },
   },
